@@ -1,1 +1,1 @@
-# GNU
+# script_Octave
